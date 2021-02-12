@@ -7,7 +7,7 @@ public class Hello {
         System.out.println("More actions here");
         //Movie on the phone
         //movie on the phone 20 minutes
-        //another final 10 minute before going back to livingroom
+        //another final 10 minute before going back to livingroowm
 
 
     }
